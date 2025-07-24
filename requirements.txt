@@ -1,0 +1,16 @@
+pytesseract 
+pillow
+opencv-python
+easyocr
+paddleocr
+paddlepaddle>=2.0.0
+-f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+requests
+google
+notebook 
+jupyterlab 
+ipykernel
+matplotlib
+pyspellchecker
+spacy
+spellchecker
