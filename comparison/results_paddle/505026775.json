@@ -1,0 +1,65 @@
+{
+    "image_id": "505026775.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/505026775.jpg",
+    "summary": "The image appears to be a scanned document or printout with text written in English. At the top of the page, the text is too small to read clearly. However, below the header, there is a paragraph that discusses \"emergency services.\" This section includes several numbered points which seem to outline a series of questions or tasks related to emergency services, including one asking about communication with other agencies and the use of a particular form. The bottom of the page contains additional text in a smaller font size, but it's not fully legible due to the resolution of the image.\n\nThe image has been described as \"a document\" and \"a piece of paper,\" indicating that it is a hard copy of some sort, possibly related to organizational processes or policies for emergency services. The overall impression is that of an official or formal document rather than casual or informal text.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "50515818-5819.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/50515818-5819.jpg",
+    "summary": "The image shows a document with a title \"Dentist's office - 2007 - 2018\" at the top, followed by various sections with text content. There is a table listing names, addresses, and possibly other details related to dental practices or dentists from 2007 to 2018. The document appears to be an official-looking form or report, likely associated with a healthcare provider's annual report or similar administrative record. The text within the document is too small to discern specific information. The style of the image is that of a photograph capturing a printed document placed against a dark background.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

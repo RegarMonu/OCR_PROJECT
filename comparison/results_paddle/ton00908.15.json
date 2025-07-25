@@ -1,0 +1,65 @@
+{
+    "image_id": "ton00908.15.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/ton00908.15.jpg",
+    "summary": "The image displays an official document from the American Cancer Society. It appears to be a letter or statement sent by an individual named \"Jane Smith\" to an organization called \"American Cancer Society.\" The contents of the document are not visible in the text provided, but it is signed at the bottom and likely contains information relevant to the American Cancer Society's activities or policies.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

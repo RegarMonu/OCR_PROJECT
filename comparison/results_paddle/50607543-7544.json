@@ -1,0 +1,65 @@
+{
+    "image_id": "50607543-7544.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/50607543-7544.jpg",
+    "summary": "The image shows a printed document containing text and a table with various entities. It appears to be some form of medical or health-related document, as indicated by the context extracted from the image. The text seems to include the names of individuals, organizations, and possibly a section titled \"Prediction.\" The overall content suggests that it is related to healthcare or medical research.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

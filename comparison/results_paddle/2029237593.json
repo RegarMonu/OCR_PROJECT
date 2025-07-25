@@ -1,0 +1,65 @@
+{
+    "image_id": "2029237593.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2029237593.jpg",
+    "summary": "The image is a low-resolution photograph of a document with text. Due to the quality of the photo, it's not possible to read or accurately describe the content of the document. If you need help with understanding the context or content of the document, please provide a higher-quality image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

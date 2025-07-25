@@ -1,0 +1,65 @@
+{
+    "image_id": "60012400.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/60012400.jpg",
+    "summary": "The image shows a formal letter addressed to an individual named \"Dr. Amit\". It seems to be from an organization called \"The University of Virginia School of Medicine\" and is signed by someone who appears to have a position of authority or responsibility within the institution. The content of the letter discusses matters related to the Virginia Commonwealth University, such as appointments and changes in leadership. The text also mentions events or activities that have occurred at the VCU School of Medicine, suggesting an engagement between the two institutions.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

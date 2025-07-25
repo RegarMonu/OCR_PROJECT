@@ -1,0 +1,65 @@
+{
+    "image_id": "2073487737.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2073487737.jpg",
+    "summary": "The image features an advertisement or ticket for \"DORAL REWARDS.\" The text includes various terms such as \"KITCHEN\" and \"NATION,\" along with numbers that likely represent rewards or points. The design has a classic look, suggesting it could be from a traditional ticket issuer. There is also a logo or emblem at the top of the advertisement, which seems to be part of a larger branding or marketing campaign.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

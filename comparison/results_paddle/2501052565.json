@@ -1,0 +1,65 @@
+{
+    "image_id": "2501052565.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2501052565.jpg",
+    "summary": "The image shows an educational or informational poster featuring text related to workplace smoking policies and restrictions, along with a pictogram indicating no smoking allowed. It appears to be an informational flyer meant for public spaces, aiming to raise awareness about workplace rules regarding smoking.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

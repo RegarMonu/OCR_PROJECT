@@ -1,0 +1,65 @@
+{
+    "image_id": "2085756613a.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2085756613a.jpg",
+    "summary": "The image displays an advertisement in black and white. It appears to be printed on a standard piece of paper. The ad contains text with various capital letters, indicating headings or key phrases for attention. There are also numbers and a date present in the text. The content of the advertisement is not clearly visible due to the resolution and size of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

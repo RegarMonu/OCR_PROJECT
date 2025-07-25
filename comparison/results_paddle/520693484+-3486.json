@@ -1,0 +1,65 @@
+{
+    "image_id": "520693484+-3486.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/520693484+-3486.jpg",
+    "summary": "The image is of a letter with handwritten content that appears to be related to some form of discussion or exchange, possibly in a professional or administrative context. The letter is addressed \"To whom it may concern\" and discusses topics such as an error on a report and a request for information. There are mentions of numbers and dates, suggesting the correspondence might involve financial matters or scheduling. The image has a grainy quality and the text within the letter is not entirely clear, which makes specific details about the content more challenging to discern.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

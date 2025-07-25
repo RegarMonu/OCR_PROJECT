@@ -1,0 +1,65 @@
+{
+    "image_id": "12812692.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/12812692.jpg",
+    "summary": "The image shows a black-and-white printed document with various sections and fields filled out in ink. It appears to be an official form or receipt, possibly for parking, with details such as date and time, vehicle information, and payment information. The text is slightly blurry, making it difficult to read specific details.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

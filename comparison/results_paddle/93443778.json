@@ -1,0 +1,65 @@
+{
+    "image_id": "93443778.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/93443778.jpg",
+    "summary": "The image shows a document with handwritten annotations. There is text indicating a schedule or timetable for events, with times written in different formats next to various activities. Some of the events include \"Breakfast,\" \"Dinner,\" and \"Church.\" There's also information about someone named \"Bill\" and a note that includes a phone number, which seems to be part of a list or inventory with quantities like \"300 pieces\" for different items. The annotations appear to relate to a personal schedule or log, possibly from a religious or institutional setting given the mention of \"Church.\"",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

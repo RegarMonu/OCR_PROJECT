@@ -1,0 +1,65 @@
+{
+    "image_id": "50407632-7632.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/50407632-7632.jpg",
+    "summary": "The image appears to be a book cover or a similar type of publication, featuring a title \"THE HOSTAGE BRAIN\" and subtitles related to topics such as \"HONDA HERO\" and \"ELECTRIC SHADOW.\" The cover has some illustrations and text that seem to hint at the content of the book, possibly dealing with psychological, medical, or legal subjects.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

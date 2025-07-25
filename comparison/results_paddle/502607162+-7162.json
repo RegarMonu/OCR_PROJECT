@@ -1,0 +1,65 @@
+{
+    "image_id": "502607162+-7162.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/502607162+-7162.jpg",
+    "summary": "The image shows a document with printed text and a small photo inserted into it. The document appears to be some sort of paperwork or form, with visible sections for writing or filling out. The text in the document is partially obscured by a white overlay, making it difficult to read, but it seems to include fields such as \"n a o t o e e e e e i e e\" and \"e\", which could be headings or field labels. The photo within the document is of a person, although their face has been altered or obscured in some way that prevents recognition. Due to the partial and unclear state of both the text and the image itself, providing further details is challenging.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

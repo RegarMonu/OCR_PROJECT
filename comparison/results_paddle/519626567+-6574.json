@@ -1,0 +1,65 @@
+{
+    "image_id": "519626567+-6574.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/519626567+-6574.jpg",
+    "summary": "The image displays a screenshot of an application or a digital interface, with text and possibly images within the content. The layout suggests it could be from a mobile app, browser, or some form of software program. However, without additional information or context, it's not possible to provide more details about the nature of the application or its specific use case.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

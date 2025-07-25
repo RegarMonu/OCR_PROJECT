@@ -1,0 +1,65 @@
+{
+    "image_id": "2072705831.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2072705831.jpg",
+    "summary": "The image appears to be a photograph or screenshot of a printed document with text that is partially visible. The document contains some form of data structure or template with placeholder fields for 'Name', 'Company', 'Address', and other information related to an individual or organization. There's also a table that seems to be part of a financial or accounting system, possibly containing data about a person, such as an employee ID number, which is highlighted by a red circle. The text and elements suggest that this document may be related to human resources, payroll, or some other business function involving personnel information.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

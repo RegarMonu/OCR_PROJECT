@@ -1,0 +1,65 @@
+{
+    "image_id": "03335936.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/03335936.jpg",
+    "summary": "The image shows a black-and-white photo of a document, which appears to be a scanned copy of a formal letter or a piece of official correspondence. The document contains printed text that includes a salutation, body of the letter, and signatures at the bottom. There are also various handwritten annotations on the document, which appear to include corrections or markings. The text is too small to read accurately, but it's clear that this document serves some formal purpose, possibly related to a professional or legal matter. The style of the image suggests it may be from an older document due to the black-and-white nature of the scan and the overall appearance of the paper.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "2021174533_2021174534.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2021174533_2021174534.jpg",
+    "summary": "The image appears to be a newspaper article with headline text \"WHERE THERE'S SMOKE, THERE'S\". Below the headline, there is an illustration depicting a smoky or misty scene, but not enough detail can be discerned from this view. The lower part of the image has several paragraphs with small print and a dense layout that includes text related to a location called \"HOT SPRINGS\" and other details, although it's difficult to read the entire content due to the resolution of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

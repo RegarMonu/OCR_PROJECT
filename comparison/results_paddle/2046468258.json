@@ -1,0 +1,65 @@
+{
+    "image_id": "2046468258.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2046468258.jpg",
+    "summary": "The image shows a printed newspaper page with an article that appears to be discussing ethical considerations related to pension investments. The text in the image suggests that it is a section of the newspaper dedicated to opinion pieces or letters from readers. The content of the article seems to involve some form of debate or discussion about ethics and investments, possibly addressing concerns about how certain types of investments align with broader societal values.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

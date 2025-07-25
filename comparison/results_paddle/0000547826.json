@@ -1,0 +1,65 @@
+{
+    "image_id": "0000547826.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/0000547826.jpg",
+    "summary": "The image displays a document with black text on a white background, which appears to be an invoice or receipt. The text is partially visible and includes elements such as dates, numbers, names, and other details common to financial records. However, due to the low resolution and angle of the photo, it's difficult to read specifics from the document.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

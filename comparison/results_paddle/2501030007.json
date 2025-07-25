@@ -1,0 +1,65 @@
+{
+    "image_id": "2501030007.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2501030007.jpg",
+    "summary": "The image shows a document with a warning message that reads \"It takes work to prevent cigarette sales to minors\". Below this message is an advertisement or notice about Action Against Tobacco. The text suggests a campaign or initiative related to smoking prevention, particularly concerning underage smokers.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

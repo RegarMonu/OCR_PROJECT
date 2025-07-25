@@ -1,0 +1,65 @@
+{
+    "image_id": "2028723868.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2028723868.jpg",
+    "summary": "The image appears to be an old photograph of a document or paperwork. It features a handwritten note with some text that includes numerical figures and possibly dates or times, but the content is not entirely clear due to the quality of the image and the angle at which it was taken. There are also several lines of text written vertically, which seem to be part of a form or table. The document itself has a vintage appearance, with aged paper and possibly ink stains. The overall context suggests that this could be an old invoice or receipt, but without a clearer image or additional information, it's difficult to provide a more detailed summary.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

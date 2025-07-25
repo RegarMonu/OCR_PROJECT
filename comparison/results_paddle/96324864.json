@@ -1,0 +1,65 @@
+{
+    "image_id": "96324864.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/96324864.jpg",
+    "summary": "The image features an advertisement or promotional material with a message that seems to be promoting new products at discounted prices. It emphasizes the value for money, stating \"more packings, more pleasure, more profits\" and encouraging people to take advantage of the opportunity. The text is overlaid on what appears to be an image from a product or store display.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

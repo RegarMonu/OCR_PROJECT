@@ -1,0 +1,65 @@
+{
+    "image_id": "2040287760_2040287794.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2040287760_2040287794.jpg",
+    "summary": "The image is a scanned document that appears to be a financial or business report. It contains text, graphs, and tables, which are typical elements in such documents. The text includes numbers and percentages, indicating some form of data analysis or comparison. There are also annotations and notes handwritten on the document, suggesting that it is being reviewed or analyzed by someone. Additionally, there's a watermark that reads \"Pippin's Place,\" which could indicate the name of the organization or entity associated with this report. The overall content and style suggest that this document is intended for an audience with some level of financial understanding or expertise.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

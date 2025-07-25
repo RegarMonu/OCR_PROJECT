@@ -1,0 +1,65 @@
+{
+    "image_id": "510934211+-4215.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/510934211+-4215.jpg",
+    "summary": "The image is a photograph of a document that appears to be an official form or certificate. It contains multiple sections with printed text and signatures, indicating various fields that need to be filled out or have been filled in. The style of the form resembles standard government documentation, with lines and boxes for entering information.\n\nThe text on the form includes names and addresses, as well as a section at the bottom that seems to be for additional comments or remarks. There are also handwritten notes or annotations in black ink next to some of the printed text. The overall layout suggests it is part of a larger process or application, likely related to employment or legal matters.\n\nThe document has been scanned and appears to have been edited or reviewed with corrections marked by arrows and lines. This indicates that the form was not filled out correctly at first, and further attention was given to ensure its accuracy. The image itself is clear and well-lit, making it possible to read the printed text and observe the details of the form's design.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

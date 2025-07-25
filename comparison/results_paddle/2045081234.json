@@ -1,0 +1,65 @@
+{
+    "image_id": "2045081234.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2045081234.jpg",
+    "summary": "The image is of an advertisement poster featuring a stylized drawing of a humanoid figure standing upright against a backdrop that includes text and additional graphics. The central figure appears to be a character with a human-like form, dressed in what looks like an animal costume or a fantasy creature attire. Above the figure, there is a name \"Sapphire\" printed in stylized lettering. To the right of the character, there are other elements such as what seems to be a tree and possibly additional text or imagery that is partially obscured by a watermark-like pattern. The style of the drawing is somewhat abstract and appears to have been digitally altered or composed, as indicated by the pixelated appearance and the overlay of the watermark.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "516028154+-8154.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/516028154+-8154.jpg",
+    "summary": "The image shows a document titled \"ICE CREAM\". There is a date written at the top which seems to be August 10th. The document contains text that appears to be part of a legal or official correspondence, possibly related to an ice cream business. The content includes phrases like \"We are in receipt of\", \"We respectfully request\", and \"Kindly be advised\". There is also a handwritten note on the document. It seems to be a formal letter or notice addressed to \"Mr. John Doe\" from someone named \"Dr. Richard Smith\". The document is signed at the bottom, indicating its official nature.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

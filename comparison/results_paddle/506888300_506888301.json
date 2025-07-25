@@ -1,0 +1,65 @@
+{
+    "image_id": "506888300_506888301.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/506888300_506888301.jpg",
+    "summary": "The image appears to show a document or spreadsheet with tabular data containing text that is mostly obscured by noise. The visible text includes dates, numbers, and some non-numeric characters, but it's difficult to discern any specific content due to the quality of the image. The style suggests a printed page with a layout that resembles a table or form structure, typically used for record keeping or data reporting.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "1005111374.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/1005111374.jpg",
+    "summary": "The image appears to be a black and white photograph or scan of a document with text that is mostly obscured by noise or distortion. There are some legible words and phrases which include names like \"James C.\" and \"PROPN,\" along with parts of speech such as nouns, adjectives, and pronouns. The document has a crease running down the center, suggesting it might be folded paper. It is not clear what the content or purpose of the document is due to the poor quality of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

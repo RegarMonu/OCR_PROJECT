@@ -1,0 +1,65 @@
+{
+    "image_id": "522929206+-9206.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/522929206+-9206.jpg",
+    "summary": "The image appears to be a digital receipt or document that contains text and numbers. It is presented in portrait orientation and includes various pieces of information such as dates, amounts, and descriptions. The text is organized in a structured manner with headings and bullet points, suggesting it may be an official document like an invoice, statement, or certificate. There are also some graphics or logos present in the image, but they are not central to the content of the text.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

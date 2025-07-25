@@ -1,0 +1,65 @@
+{
+    "image_id": "1001511267.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/1001511267.jpg",
+    "summary": "The image is a digitally altered photograph that features text overlaying a piece of paper or document. The text appears as a blurred superimposition on top of the document, which includes multiple lines of what seems to be printed content. Due to the low resolution and distorted appearance of the text, it's challenging to provide specific details about its content. The image likely represents some form of communication or message related to the document, but without clear visibility of the text itself, an exact summary is not possible.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "506192666_506192667.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/506192666_506192667.jpg",
+    "summary": "The image appears to be a scanned document with various handwritten annotations and marks. It contains rows and columns filled out with numerical values that could represent data such as scores or statistics. There are also multiple lines of text at the top left, which may be notes, comments, or additional information related to the data being presented. The image is somewhat blurry and low-resolution, making it difficult to discern specific details or content within it.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

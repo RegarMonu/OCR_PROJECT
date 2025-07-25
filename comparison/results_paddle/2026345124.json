@@ -1,0 +1,65 @@
+{
+    "image_id": "2026345124.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2026345124.jpg",
+    "summary": "The image displays a formal document, likely a notice or an official letter from the Post Office, addressed to a Mr. Davis at an address in Las Vegas. The text is somewhat blurry, but it appears that there may be information about missing mail related to the individual's address. It includes details such as date, names of individuals involved in the communication, and mentions a postal code 89106. Additionally, there are references to items that were not delivered or possibly lost. The document is signed off by an employee named \"Jones,\" who has authorized the letter's contents. The overall context suggests that this is a formal communication from a service provider regarding issues with mail delivery at a specific address.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

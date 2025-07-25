@@ -1,0 +1,65 @@
+{
+    "image_id": "2071235594_5595.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2071235594_5595.jpg",
+    "summary": "The image is a black and white document or form with text and lines to check boxes for responses. There are several questions listed on the page, along with numbered options for each question. At the top, there appears to be a statement regarding publication rights or permissions. The content of the text is not fully visible due to the image resolution and size.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

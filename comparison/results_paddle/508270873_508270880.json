@@ -1,0 +1,65 @@
+{
+    "image_id": "508270873_508270880.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/508270873_508270880.jpg",
+    "summary": "The image shows a printed document with text that appears to be in English. Due to the resolution and angle, it's difficult to discern specific details from the text. The document is folded along one edge, making it a bit challenging to read all the text clearly. There are no distinct images or objects within the printed paper; the focus seems to be on the text itself, which includes both printed characters and possibly some images or graphics that are not entirely clear due to the image's resolution and angle.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

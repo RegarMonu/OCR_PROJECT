@@ -1,0 +1,65 @@
+{
+    "image_id": "tob15907.46.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/tob15907.46.jpg",
+    "summary": "The image is of a document that appears to be a formal letter or memo, addressed to \"Roger\". The text within the document includes references to \"the deal\" and mentions \"Jim\" and \"Bob\" as individuals involved in the situation or agreement being discussed. The context suggests a business or commercial nature to the content of the document.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

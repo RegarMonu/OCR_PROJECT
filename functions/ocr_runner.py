@@ -6,8 +6,21 @@ ocr_engines = {
     "tesseract": tesseract_ocr.text_extractor,
 }
 
-def extract_text(image_path: str, engine: str = "tesseract"):
-    if engine not in ocr_engines:
-        raise ValueError(f"Unsupported OCR engine: {engine}")
-    return ocr_engines[engine](image_path)
+def extract_text(image_path, ocr_type="tesseract"):
+    if ocr_type == "paddleocr":
+        # Assuming it returns a string already
+        return paddleocr_ocr.text_extractor(image_path)
+
+    elif ocr_type == "easyocr":
+        result = easyocr_ocr.text_extractor(image_path)  # returns list of tuples like [(text, box), ...]
+        if isinstance(result, list):
+            texts = [r[1] if isinstance(r, tuple) and len(r) > 1 else "" for r in result]
+            return " ".join(texts)
+
+    elif ocr_type == "tesseract":
+        result = tesseract_ocr.text_extractor(image_path)
+        return str(result).strip()  # make sure it's a string
+
+    return ""
+
 

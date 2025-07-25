@@ -1,0 +1,65 @@
+{
+    "image_id": "2085125038c.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2085125038c.jpg",
+    "summary": "The image displays a photograph of a printed receipt or document with visible text. The document appears to be a transactional record listing items purchased, along with their quantities and corresponding prices. At the top of the document, there is a header section that includes fields such as \"Date,\" \"Store,\" \"Cashier,\" \"Cash Register,\" and an identification number. Additional information at the bottom suggests that this is a receipt from a store, listing items purchased, along with their quantities and prices. The text is too small to read in detail within this context, but it is clear that the document serves as a record of a shopping transaction, typically used for customer records or inventory tracking.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "2505234135_4136.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2505234135_4136.jpg",
+    "summary": "The image is a document with text, which appears to be a form or application. It includes various fields such as a title, name, and possibly other personal details and sections for writing. There is also some printed text and numerical information on the document. The top portion of the image shows a small section of the document that contains handwritten text.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

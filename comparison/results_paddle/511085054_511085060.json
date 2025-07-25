@@ -1,0 +1,65 @@
+{
+    "image_id": "511085054_511085060.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/511085054_511085060.jpg",
+    "summary": "The image appears to be a photograph of a printed document with text that is partially obscured or covered by another layer of text. The visible text includes several words that seem unrelated, possibly indicating a pattern or design element on the paper rather than actual content. The rest of the document's text is not clear due to the overlay.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

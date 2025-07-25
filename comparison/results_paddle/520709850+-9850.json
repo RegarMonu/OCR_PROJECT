@@ -1,0 +1,65 @@
+{
+    "image_id": "520709850+-9850.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/520709850+-9850.jpg",
+    "summary": "The image shows a formal letter addressed to an individual named \"Father John Egan.\" It appears to be from a governmental agency or department, as indicated by the text \"UNITED STATES ENVIRONMENTAL PROTECTION AGENCY\" at the top of the page. The writer expresses gratitude for an opportunity to work with them and mentions specific activities and achievements related to the environment. The tone is respectful and professional, suggesting a formal communication style typical in official correspondence from governmental bodies.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

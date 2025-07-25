@@ -1,0 +1,65 @@
+{
+    "image_id": "2080726921_6923.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2080726921_6923.jpg",
+    "summary": "The image appears to be a document with text that includes references to a \"Vision\" and some individuals named \"CRISTIAN\", \"JESSIE\", and possibly others. There is a mention of an \"INTJ\" and various other words that are likely part of the text. Without additional context or clarity, it's difficult to provide more specific details about the content of the document. The style of the image is a photograph of a printed page, and there is a small, low-resolution representation of what seems like a car on the lower right corner.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

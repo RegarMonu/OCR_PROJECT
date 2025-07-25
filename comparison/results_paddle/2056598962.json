@@ -1,0 +1,65 @@
+{
+    "image_id": "2056598962.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2056598962.jpg",
+    "summary": "The image shows a document with a table of data. The table is quite complex, with multiple columns and entries that appear to be related to some sort of inventory or tracking system. Each entry in the table includes specific details such as names and numbers. The image quality is low, making it challenging to read the text accurately. However, it seems like an organizational document used for keeping track of items, possibly in a workplace or retail environment.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

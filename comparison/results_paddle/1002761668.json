@@ -1,0 +1,65 @@
+{
+    "image_id": "1002761668.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/1002761668.jpg",
+    "summary": "The image shows a poster with an illustration of a person sitting down with their legs crossed. The text on the poster says \"Why I try Marlboro cigarettes\" and is accompanied by a small figure at the bottom right corner that resembles a bottle or glass with liquid in it. The setting appears to be indoors, and there's a partial view of what seems to be a newspaper page on the left side of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

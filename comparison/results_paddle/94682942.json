@@ -1,0 +1,65 @@
+{
+    "image_id": "94682942.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/94682942.jpg",
+    "summary": "The image shows a newspaper page with text. On top of the page is an inset image of a black and white photo. The central part of the photo appears to be an emblem or logo, but due to the resolution, specific details are not clear. The newspaper text includes various pieces of information, but without legibility, I can only confirm that it contains words and numbers. The overall image is structured like a cross-section, combining elements of modern technology with traditional media.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,22 +1,16 @@
 from paddleocr import PaddleOCR
 
-ocr = PaddleOCR(use_angle_cls=True, lang='en')
+ocr_model = PaddleOCR(use_angle_cls=True, lang='en')
 
-def ocr_paddle(image_path):
-    ocr = PaddleOCR(use_angle_cls=True, lang='en')
+def text_extractor(image_path: str) -> str:
+    """
+    Run PaddleOCR and return plain text (no box, no confidence).
+    """
+    result = ocr_model.ocr(image_path)
+    
+    if not result or not result[0]:
+        return ""
 
-    # Run OCR (this will automatically correct rotated images)
-    result = ocr.ocr('rotated_image.jpg')
-    texts = [line[1][0] for line in result[0]]
-    return ' '.join(texts).strip()
-
-
-
-# Enable angle classifier to correct rotated text
-ocr = PaddleOCR(use_angle_cls=True, lang='en')
-
-# Run OCR (this will automatically correct rotated images)
-result = ocr.ocr('rotated_image.jpg')
-
-for line in result[0]:
-    print(line)
+    # Extract just the text part
+    texts = [entry[1][0].strip() for entry in result[0]]
+    return ' '.join(texts)

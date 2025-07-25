@@ -1,0 +1,65 @@
+{
+    "image_id": "2021387400_7401.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2021387400_7401.jpg",
+    "summary": "The image is a photograph of a handwritten receipt or note. It includes various pieces of text written in ink, including numbers and possibly some words or phrases. There are no significant images or objects present in the photo aside from the writing. Due to the nature of the image, it is not possible to provide specific details about the contents of the text.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

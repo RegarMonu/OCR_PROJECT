@@ -1,0 +1,65 @@
+{
+    "image_id": "2505169075.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2505169075.jpg",
+    "summary": "The image displays a printed document with handwritten annotations. At the top left corner, there are two checkmarks, one indicating \"Signed\" and the other with a signature that appears to be partially blacked out. Below this, there is a section titled \"Agreement for use of personal information.\" The text within this section includes a paragraph and a blank space presumably for a signature or initials, which is already signed with two lines next to it.\n\nThe document also contains various checkboxes with corresponding instructions for the signer. For example, there's a line that reads \"I have read and understood the following information.\" Beside this text is an empty checkbox. At the bottom left of the image, there are more handwritten notes or corrections that include underlined words such as \"INTJ\" which might be short for \"introvert\" and other annotations in a foreign language.\n\nThe style of the image suggests it's likely a scanned document containing sensitive information, and the user has annotated or marked it in some way.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

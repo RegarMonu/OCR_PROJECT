@@ -1,0 +1,65 @@
+{
+    "image_id": "2072060377a.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2072060377a.jpg",
+    "summary": "The image shows a scanned document with printed text, which appears to be an official or formal letter. There are various lines of text in different fonts and sizes, along with some graphics, possibly logos or stamps, at the bottom right corner. The OCR (Optical Character Recognition) text has been extracted from the scanned document. However, without a clear view of the content of the text, it is not possible to provide a detailed summary of the image's contents.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

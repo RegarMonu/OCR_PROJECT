@@ -1,0 +1,65 @@
+{
+    "image_id": "2072237168.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2072237168.jpg",
+    "summary": "The image displays a black and white document with a signature at the bottom right corner. The text appears to be a receipt or invoice, but it's not clearly readable due to the low resolution. There is handwritten text at the top left corner which seems to contain a name, possibly the recipient's, along with some additional information that is too small and blurry to interpret.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

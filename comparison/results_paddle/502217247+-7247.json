@@ -1,0 +1,65 @@
+{
+    "image_id": "502217247+-7247.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/502217247+-7247.jpg",
+    "summary": "The image shows a book page with a blurred background, focusing on the text \"GET INTO WISPY DRAG RACING\" which is likely part of a larger title or heading on the page. The text is printed in English and contains proper nouns and adjectives, indicating that it's discussing a specific subject related to racing, specifically with drag racing vehicles known as \"wispy drags.\" The book appears to be of a technical or hobbyist nature, possibly providing information on drag racing.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

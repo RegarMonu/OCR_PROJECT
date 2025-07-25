@@ -1,0 +1,65 @@
+{
+    "image_id": "502595294.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/502595294.jpg",
+    "summary": "The image displays what appears to be a newspaper or printed matter with various articles and advertisements visible. It seems to be a page from a publication featuring text and images related to different topics. The context provided by the OCR suggests the presence of several named entities, but without more information, it's not possible to provide a meaningful summary based on the visible content.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

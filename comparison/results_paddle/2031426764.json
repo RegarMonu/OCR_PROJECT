@@ -1,0 +1,65 @@
+{
+    "image_id": "2031426764.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2031426764.jpg",
+    "summary": "The image appears to be a printed document or letter, which contains various texts, including numbers, words, and some form of stamps or signatures. The text is arranged in blocks with headings and bullet points, suggesting it might be an official notice or a list of items related to a specific topic or organization. The presence of named entities such as \"PROPN\" indicates that the document may include personal names or references. However, without additional context or a clearer view of the content, it is difficult to provide more specific details about the nature of the document or its purpose.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "12882100.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/12882100.jpg",
+    "summary": "The image shows a document, which appears to be a handwritten note or letter. The content of the text is not fully visible due to an overlay that obscures part of the writing. It seems to contain signatures at the bottom, indicating that it may have been a form or official correspondence of some kind. The style and handwriting suggest a casual or informal setting, and there are no clear indicators of its specific context or content beyond what has already been mentioned.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

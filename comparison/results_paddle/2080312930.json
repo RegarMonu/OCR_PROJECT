@@ -1,0 +1,65 @@
+{
+    "image_id": "2080312930.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2080312930.jpg",
+    "summary": "The image displays a document with text that appears to be printed in black ink on white paper. The text is somewhat blurry and the content is not entirely clear, but it seems to be a structured list or table. At the top of the image, there's a section with the words \"FLOWER POT\" highlighted in color, suggesting this might be the title or heading of the document. Below this, there are items listed, and at the bottom, there is a signature field that has been filled out, though the text inside it is also blurry. The overall style of the image is informational and formal, typical of a business or office document.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

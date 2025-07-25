@@ -1,0 +1,65 @@
+{
+    "image_id": "1001866123_1001866124.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/1001866123_1001866124.jpg",
+    "summary": "The image shows a document that appears to be an official paper with text and signatures. The content includes names, a date, and some numbers which could potentially indicate reference numbers or identifiers. The document is signed by two individuals, one of whom has written \"Elizabeth M. Long\" at the bottom, suggesting this might be related to her work or the subject matter of the document. However, without more context or information about the content of the text, it's not possible to provide a detailed summary of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

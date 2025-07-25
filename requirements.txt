@@ -14,3 +14,16 @@ matplotlib
 pyspellchecker
 spacy
 spellchecker
+imutils
+huggingface_hub
+tqdm
+sqlalchemy 
+psycopg2-binary 
+pymilvus 
+sentence-transformers 
+more-itertools
+fastapi 
+uvicorn 
+pymysql
+langchain_groq
+chainlit

@@ -1,0 +1,65 @@
+{
+    "image_id": "2030026388.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2030026388.jpg",
+    "summary": "The image appears to be a document or paper with printed text and some handwritten annotations. At the top of the document is a logo followed by text that mentions the National Life Support Program. Below this, there's a table listing various items such as \"LUNG TRANSPLANT,\" \"METHYL AGE\" with corresponding numbers, \"SOLUBLE OIL,\" and other products or services along with their prices. The document also includes handwritten notes on certain lines within the table, which seem to be calculations or annotations related to the data presented.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

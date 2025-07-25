@@ -1,0 +1,65 @@
+{
+    "image_id": "2073624878.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2073624878.jpg",
+    "summary": "The image shows a black and white document with text that includes an email address. The content of the document is not fully legible due to the resolution and size of the text in the image. The image also contains a set of four checkboxes, each accompanied by a symbol. However, without additional context or a clearer view of the text within the document, it's difficult to provide further details about the content of the document.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

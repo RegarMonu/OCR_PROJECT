@@ -1,0 +1,65 @@
+{
+    "image_id": "2056712540.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2056712540.jpg",
+    "summary": "The image displays a printed sheet with handwritten text and numerical data. It appears to be a log or record sheet, possibly related to machine operation or some form of tracking or documentation in a technical or industrial context. The visible text includes items such as \"INTJ,\" \"DET,\" and various other entries under different headings. However, without the full content of the sheet and additional context, it's difficult to provide a precise summary of its purpose or content.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

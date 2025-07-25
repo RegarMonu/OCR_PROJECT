@@ -1,0 +1,65 @@
+{
+    "image_id": "2031015329_2031015330.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2031015329_2031015330.jpg",
+    "summary": "The image displays a document from the Fairmont Hotel. It is an official notice to guests announcing that due to maintenance activities in progress, the hotel's elevator service will be temporarily unavailable during the night. The document provides specific details about the duration of this service disruption and alternative arrangements for guest needs.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

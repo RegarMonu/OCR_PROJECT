@@ -1,0 +1,65 @@
+{
+    "image_id": "88141193.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/88141193.jpg",
+    "summary": "The image appears to be a black-and-white document or paper. It contains text written in English, which includes various elements such as named entities, parts of speech, and possibly other types of elements like numbers, dates, etc. The style of the image suggests it could be a historical document or a formal letter.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "image_id": "2084426710_6711.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2084426710_6711.jpg",
+    "summary": "The image appears to be a black and white printout or a scan with distorted or pixelated quality showing two pictures side by side. The upper picture shows what looks like a blurry representation of an object or figure, possibly a person or an animal, from a high angle perspective. The lower picture is even more obscured due to the printing process or resolution issues. It's challenging to provide a detailed description due to the low-resolution nature of the image.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

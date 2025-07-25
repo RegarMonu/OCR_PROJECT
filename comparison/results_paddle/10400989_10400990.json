@@ -1,0 +1,65 @@
+{
+    "image_id": "10400989_10400990.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/10400989_10400990.jpg",
+    "summary": "The image displays a newspaper or magazine page with text. The text is densely packed, containing various words that could be related to different topics or sections within the publication. It's not possible to discern the exact content due to the resolution of the image. The style and layout suggest it's an older publication.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

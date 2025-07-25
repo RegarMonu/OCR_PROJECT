@@ -1,0 +1,65 @@
+{
+    "image_id": "2083780649.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2083780649.jpg",
+    "summary": "The image is a photograph of a newspaper clipping featuring an article about Andrej Kramnik, who is described as a tennis player. The headline reads \"Andrej Kramnik puts an end to Penske's streak,\" indicating that Kramnik has stopped a winning streak of a person named Penske. The article likely discusses the outcome of a match or event involving Kramnik and Penske.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

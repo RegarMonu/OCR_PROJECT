@@ -1,0 +1,65 @@
+{
+    "image_id": "50535699-5699.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/50535699-5699.jpg",
+    "summary": "The image shows a document with a lot of text in it. It appears to be a scanned paper or a digital rendering of such. The text includes various elements like numbers, names, and possibly other types of data. The OCR text extraction suggests that the document may contain structured information or data tables. However, without a specific focus or context, it's challenging to provide a detailed summary of the image's content.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

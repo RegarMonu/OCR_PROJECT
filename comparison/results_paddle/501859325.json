@@ -1,0 +1,65 @@
+{
+    "image_id": "501859325.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/501859325.jpg",
+    "summary": "The image shows a black-and-white photocopy of a document that appears to be an official correspondence or notice. At the top left corner, there is a logo with text \"Hampton, Virginia\" alongside it. On the right side, we can see part of a table with columns like 'Name', 'Address', and others but the content on these lines is cut off.\n\nThe document contains printed text in various fonts and sizes, some of which are legible and others are not due to the resolution of the image. The notice mentions an \"application for renewal,\" a form number \"1052,\" and specific instructions related to a \"bond,\" \"certification,\" and other details that are too small or blurry to read clearly.\n\nAt the bottom left corner, there is a handwritten note in ink which seems to be a signature or initials, but it's not possible to discern the text due to the resolution of the image. The overall appearance suggests that this document is likely related to business operations, possibly pertaining to legal matters given the language used and the form mentioned.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

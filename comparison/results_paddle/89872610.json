@@ -1,0 +1,65 @@
+{
+    "image_id": "89872610.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/89872610.jpg",
+    "summary": "The image shows a book or a poster with an emoji-like graphic that resembles a person in a white top. It features text which includes \"MIG,\" \"BEST,\" and other words that appear to be part of a title or a name, though I cannot provide the full context due to the partial nature of the OCR output and the limitations of an AI-generated description. The overall style of the image is simplistic with a monochromatic color scheme.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

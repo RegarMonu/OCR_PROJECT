@@ -1,0 +1,65 @@
+{
+    "image_id": "500248654+-8654.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/500248654+-8654.jpg",
+    "summary": "The image appears to be a photograph of a printed advertisement or flyer featuring various texts and graphics. One of the prominent pieces of text reads \"Salem Spirit,\" suggesting it could be related to an event, team, or organization named \"Salem Spirit.\" There are other words visible, such as \"We,\" \"Sunday,\" \"1:30,\" and \"Eddie's Place,\" which might indicate a schedule or location for an event. The rest of the text is too small to discern clearly, but it seems to be part of a larger message or call-to-action.\n\nThe image has a somewhat grainy quality, suggesting it may have been taken from a distance or with a lower resolution camera. The background appears to be an indoor space, possibly a venue where this event might take place. The overall impression is that of a community event or gathering in Salem, possibly related to sports or community activities.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}

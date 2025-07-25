@@ -1,0 +1,65 @@
+{
+    "image_id": "505815955_505815972.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/505815955_505815972.jpg",
+    "summary": "The image displays a document or paper, which is predominantly text-based. It features an official letter or notice with printed text and some handwritten elements. The content of the text seems to be related to a formal communication, possibly from a legal or administrative institution, as suggested by the context provided. However, due to the low resolution of the image, it's difficult to discern specific details about the content, such as the name of the sender, recipient, or other entities mentioned in the text. The document appears to be well-organized with a structured layout, typical for official correspondence.",
+    "corrected_text": "n a o t o e e e e e e i e e",
+    "ner": [],
+    "pos_tags": [
+        [
+            "n",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "o",
+            "NOUN"
+        ],
+        [
+            "t",
+            "NOUN"
+        ],
+        [
+            "o",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "PROPN"
+        ],
+        [
+            "e",
+            "NOUN"
+        ],
+        [
+            "i",
+            "NOUN"
+        ],
+        [
+            "e",
+            "X"
+        ],
+        [
+            "e",
+            "NOUN"
+        ]
+    ]
+}
