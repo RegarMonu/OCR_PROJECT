@@ -209,3 +209,9 @@ marimo/_lsp/
 __marimo__/
 
 dataset
+comparison/
+results/
+processed_image/
+.Dockerignore
+.chainlit/
+.files/

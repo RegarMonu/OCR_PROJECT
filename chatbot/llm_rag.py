@@ -19,7 +19,7 @@ Answer:
 """
 )
 
-def build_context(query: str, top_k: int = 5) -> str:
+def build_context(query: str, top_k: int = 2) -> str:
     vs = get_vectorstore()
     retriever = vs.as_retriever(search_kwargs={"k": top_k})
     docs = retriever.invoke(query)  # Use invoke instead of get_relevant_documents

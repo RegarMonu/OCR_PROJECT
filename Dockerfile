@@ -11,6 +11,10 @@ RUN apt-get update && apt-get install -y \
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-EXPOSE 8000
+# Set PYTHONPATH so Python can resolve local packages like `chatbot/`
+ENV PYTHONPATH=/app
 
-CMD ["chainlit", "run", "chatbot/chainlit_app.py", "--host", "0.0.0.0", "--port", "8000"]
+EXPOSE 8000
+EXPOSE 8001
+
+CMD ["python", "start.py"]

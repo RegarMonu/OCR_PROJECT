@@ -33,6 +33,8 @@ def get_summary_by_image_id(image_id: str):
 
 def get_metadata_for_image_ids(image_ids: list[str]):
     with engine.connect() as conn:
-        stmt = select(image_metadata).where(image_metadata.c.image_id == image_ids)
+        if not image_ids:
+            return []  # avoid unnecessary query
+        stmt = select(image_metadata).where(image_metadata.c.image_id.in_(image_ids))
         results = conn.execute(stmt).fetchall()
-        return [dict(r) for r in results]
+        return [dict(r._mapping) for r in results]
