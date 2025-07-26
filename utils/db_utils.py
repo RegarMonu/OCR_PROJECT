@@ -16,15 +16,20 @@ image_metadata = metadata.tables[db_table]
 
 # Insert a batch of records
 def insert_batch(results):
-    with engine.connect() as conn:
-        conn.execute(image_metadata.insert(), results)
+    with engine.begin() as conn:
+        try:
+            conn.execute(image_metadata.insert(), results)
+            print("Insert successful.")
+        except Exception as e:
+            print("Insert failed:", e)
 
 
-def get_summary_by_image_id(image_id):
+def get_summary_by_image_id(image_id: str):
     with engine.connect() as conn:
         stmt = select(image_metadata).where(image_metadata.c.image_id == image_id)
         result = conn.execute(stmt).first()
-        return dict(result) if result else None
+        return dict(result._mapping) if result else None
+
 
 def get_metadata_for_image_ids(image_ids: list[str]):
     with engine.connect() as conn:

@@ -1,0 +1,66 @@
+{
+    "image_id": "520693484+-3486.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/520693484+-3486.jpg",
+    "summary": "The image shows a handwritten document with text that includes percentages and mentions something being 8%. However, due to the low resolution and blurriness of the text, it's difficult to provide specific details about the content of the document beyond what was already extracted by the OCR system. The setting appears to be an indoor environment, possibly a workspace or study area, given the presence of a piece of paper.",
+    "corrected_text": "pe we see oe a a i = oe oboe 8 %,",
+    "ner": [
+        [
+            "8 %",
+            "PERCENT"
+        ]
+    ],
+    "pos_tags": [
+        [
+            "pe",
+            "INTJ"
+        ],
+        [
+            "we",
+            "PRON"
+        ],
+        [
+            "see",
+            "VERB"
+        ],
+        [
+            "oe",
+            "INTJ"
+        ],
+        [
+            "a",
+            "DET"
+        ],
+        [
+            "a",
+            "NOUN"
+        ],
+        [
+            "i",
+            "PRON"
+        ],
+        [
+            "=",
+            "VERB"
+        ],
+        [
+            "oe",
+            "INTJ"
+        ],
+        [
+            "oboe",
+            "NOUN"
+        ],
+        [
+            "8",
+            "NUM"
+        ],
+        [
+            "%",
+            "NOUN"
+        ],
+        [
+            ",",
+            "PUNCT"
+        ]
+    ]
+}

@@ -20,6 +20,7 @@ tqdm
 sqlalchemy 
 psycopg2-binary 
 pymilvus 
+langchain-huggingface
 sentence-transformers 
 more-itertools
 fastapi 
@@ -27,3 +28,4 @@ uvicorn
 pymysql
 langchain_groq
 chainlit
+langchain_milvus

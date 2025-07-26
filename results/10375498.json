@@ -1,0 +1,106 @@
+{
+    "image_id": "10375498.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/10375498.jpg",
+    "summary": "The image shows a document with printed text. The text appears to be a formal letter written in English, addressed to someone named Cardinal. The subject line mentions \"Raclomure Anspcinte\" and refers to scientific director roles. The body of the letter expresses support for the named individual's application to a specific position. The document has various punctuation marks, including dots and commas, indicating its structured layout.",
+    "corrected_text": "duly 16, 1959 I | I 1 . Raclomure Anspcinte scientific director a . . 2 . . . WH8S87959",
+    "ner": [
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "Raclomure Anspcinte",
+            "PERSON"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ]
+    ],
+    "pos_tags": [
+        [
+            "duly",
+            "ADV"
+        ],
+        [
+            "16",
+            "NUM"
+        ],
+        [
+            ",",
+            "PUNCT"
+        ],
+        [
+            "1959",
+            "NUM"
+        ],
+        [
+            "I",
+            "PRON"
+        ],
+        [
+            "|",
+            "VERB"
+        ],
+        [
+            "I",
+            "PROPN"
+        ],
+        [
+            "1",
+            "NUM"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            "Raclomure",
+            "PROPN"
+        ],
+        [
+            "Anspcinte",
+            "PROPN"
+        ],
+        [
+            "scientific",
+            "ADJ"
+        ],
+        [
+            "director",
+            "NOUN"
+        ],
+        [
+            "a",
+            "PROPN"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            "2",
+            "X"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            ".",
+            "PUNCT"
+        ],
+        [
+            "WH8S87959",
+            "NOUN"
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "image_id": "2501052565.jpg",
+    "file_path": "/home/user/myLearning/OCR_Project/processed_image/2501052565.jpg",
+    "summary": "The image shows a document titled \"WORKPLACE SMOKING BANS AND RESTRICTIONS\" with an exclamation point at the end of the title. Underneath the title, there's a subtitle that reads \"WHAT HAPPENS TO CONSUMPTION?\" followed by a question mark. The text mentions something related to smoking bans and restrictions in workplaces from 1993 and provides a source for the information, which is not clearly visible in the image. Additionally, there is an illustration of a person smoking, which is likely intended to be humorous or critical given the context of the document. The document appears to be discussing the impact of workplace smoking bans on consumption levels.",
+    "corrected_text": "WORKPLACE SMOKING BANS AND RESTRICTIONS WHAT HAPPENS TO CONSUMPTION? & T Neuchatel truly 1993 S9S7S0L0sz",
+    "ner": [
+        [
+            "1993",
+            "DATE"
+        ]
+    ],
+    "pos_tags": [
+        [
+            "WORKPLACE",
+            "PROPN"
+        ],
+        [
+            "SMOKING",
+            "NOUN"
+        ],
+        [
+            "BANS",
+            "NOUN"
+        ],
+        [
+            "AND",
+            "CCONJ"
+        ],
+        [
+            "RESTRICTIONS",
+            "NOUN"
+        ],
+        [
+            "WHAT",
+            "PRON"
+        ],
+        [
+            "HAPPENS",
+            "VERB"
+        ],
+        [
+            "TO",
+            "ADP"
+        ],
+        [
+            "CONSUMPTION",
+            "PROPN"
+        ],
+        [
+            "?",
+            "PUNCT"
+        ],
+        [
+            "&",
+            "CCONJ"
+        ],
+        [
+            "T",
+            "PROPN"
+        ],
+        [
+            "Neuchatel",
+            "PROPN"
+        ],
+        [
+            "truly",
+            "ADV"
+        ],
+        [
+            "1993",
+            "NUM"
+        ],
+        [
+            "S9S7S0L0sz",
+            "NOUN"
+        ]
+    ]
+}
