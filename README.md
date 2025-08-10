@@ -1,5 +1,5 @@
 ## 📁 Project Structure
-
+```sh
   OCR_PROJECT/
   ├── config/
   │ └── find_config.py # Loads .env & returns paths
